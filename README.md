@@ -1,4 +1,4 @@
-# Examen_front
+# Landing Restaurant-Simple
 
 Este repositorio contiene el código de la página web de un restaurante que ofrece servicios y productos.
 
